@@ -1,10 +1,17 @@
-Ejecutar
+# Compilar
 
 ```bash
 make
 ```
-
+# Run serial version
 ```
 ./main Instancias/C/<n>.txt
 ```
-donde <n> es la instancia.
+
+
+# Run parallel version
+```
+./parallel_main Instancias/C/<n>.txt
+```
+
+donde \<n\> es la instancia.
