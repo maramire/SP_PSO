@@ -1,4 +1,4 @@
-# Compilar
+# Compile
 
 ```bash
 make
@@ -14,4 +14,4 @@ make
 ./parallel_main Instancias/C/<n>.txt
 ```
 
-donde \<n\> es la instancia.
+where \<n\> is the instance.
